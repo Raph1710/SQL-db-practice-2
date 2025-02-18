@@ -12,6 +12,7 @@ function App() {
       <div className="card">
         <p>
           Email: raphael.dalmeida.s72@kalvium.community
+          Phone number:902*****91
         </p>
       </div>
     </>
